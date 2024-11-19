@@ -1,0 +1,9 @@
+setup.py
+paquete1/__init__.py
+paquete1/modulo1.py
+paquete1/modulo2.py
+paquete1/usuarios.py
+paqueteClaraGuerini.egg-info/PKG-INFO
+paqueteClaraGuerini.egg-info/SOURCES.txt
+paqueteClaraGuerini.egg-info/dependency_links.txt
+paqueteClaraGuerini.egg-info/top_level.txt
